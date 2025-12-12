@@ -1,0 +1,47 @@
+# Windows / system
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+
+# User folders
+AppData/
+Application Data/
+Local Settings/
+Temporary Internet Files/
+History/
+Temporary Files/
+Cookies/
+
+# Python / venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+ENV/
+.venv/
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# ML models / data
+models/
+data/
+*.joblib
+*.pkl
+*.h5
+*.sav
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
+*.log
