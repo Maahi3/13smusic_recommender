@@ -45,3 +45,4 @@ data/
 # Misc
 .DS_Store
 *.log
+.env
